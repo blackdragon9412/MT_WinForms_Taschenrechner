@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\bin\Debug\net8.0-windows\MT_WinForms_Taschenrechner.exe
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\bin\Debug\net8.0-windows\MT_WinForms_Taschenrechner.deps.json
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\bin\Debug\net8.0-windows\MT_WinForms_Taschenrechner.runtimeconfig.json
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\bin\Debug\net8.0-windows\MT_WinForms_Taschenrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\bin\Debug\net8.0-windows\MT_WinForms_Taschenrechner.pdb
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.Form1.resources
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\refint\MT_WinForms_Taschenrechner.dll
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.pdb
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\MT_WinForms_Taschenrechner.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MT_WinForms_Taschenrechner\MT_WinForms_Taschenrechner\obj\Debug\net8.0-windows\ref\MT_WinForms_Taschenrechner.dll
