@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MT_WinForms_Taschenrechner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb939bc6b668e3173eb8f317788f8d2baa0db99c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MT_WinForms_Taschenrechner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MT_WinForms_Taschenrechner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
